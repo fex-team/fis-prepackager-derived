@@ -1,0 +1,24 @@
+{
+  "name": "fis-prepackager-derived",
+  "version": "0.0.1",
+  "description": "将编译期新“派生”出来的文件添加到release列表。",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/fex-team/fis-prepackager-derived.git"
+  },
+  "keywords": [
+    "fis",
+    "compile",
+    "derived"
+  ],
+  "author": "fex-team",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/fex-team/fis-prepackager-derived/issues"
+  },
+  "homepage": "https://github.com/fex-team/fis-prepackager-derived"
+}

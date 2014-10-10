@@ -15,6 +15,8 @@ module.exports = function(ret, conf, settings, opt) {
 
             files.push(obj);
         });
+
+        delete file.extras.derived;
     });
 
     // 转换 {{prop:subpath}} 变量。
